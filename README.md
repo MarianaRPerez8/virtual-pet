@@ -87,19 +87,3 @@ _**Pruebas de API:** Postman._
 | Felipe Quintero Pulgarin | Backend / Base de datos | @fquinterop |
 | Kevin Martinez | Integración y pruebas | @kevinM0022 |
 
-## Diagrama de clases del Dominio (v1)
-
-![Diagrama de Dominio v1](diagrama-dominio-v1.png)
-
-
-## Instrucciones de Instalación y Ejecución 
-
-1. clonar el repositorio
-
-git clone https://github.com/sepumarcela/virtual-pet-grupo-4.git
-
-
-2. Entrar al directorio
-
-cd virtual-pet-grupo-4
-
